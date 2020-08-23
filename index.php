@@ -7,6 +7,19 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="array_sum.php">Array_sum</a>
+<header class="header">
+<h1 class="logo">Densetsu</h1>
+</header>
+<main>
+    <img src="image/ShiYan.jpg" class="shiyan" alt="">
+</main>
+<table class="table_array" border="1">
+    <tr>
+        <td>
+            <a href="array_sum.php" class="array_sum">Array_sum</a>
+        </td>
+    </tr>
+</table>
+    
 </body>
 </html>

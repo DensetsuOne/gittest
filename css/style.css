@@ -1,10 +1,37 @@
 body{
     background-color: rgba(202, 75, 202, 0.226);
     color: red;
+    margin: 0;
 }
 h1{
     color: rgba(50, 173, 132, 0.541);
 }
 p{
     color: rgba(165, 47, 47, 0.438);
+}
+.header{
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-color: rgb(2, 24, 49);
+}
+.logo {
+    position: absolute;
+    left: 44vw;
+    top: -15%;
+    font-size: 50px;
+}
+.shiyan{
+    position: relative;
+    top: 100px;
+    left: 40vw;
+}
+.array_sum{
+    font-size: 20px;
+}
+.table_array{
+    position: relative;
+    top: 100px;
+    left: 5%;
 }
