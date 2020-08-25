@@ -18,9 +18,11 @@
         <td>
             <a href="array_sum.php" class="array_sum">Array_sum</a>
         </td>
+        <td>
+            <a href="indexoop.php" class="array_sum">IndexOOP</a>
+        </td>
     </tr>
 </table>
 
-    //Fake up the ryuk
 </body>
 </html>
